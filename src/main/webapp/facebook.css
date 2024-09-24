@@ -1,0 +1,74 @@
+@charset "UTF-8";
+h1{
+    font-style: italic;
+    text-align:center;
+    background-image: url('face.jpg');
+    background-position: center left;
+    background-size: cover;
+    background-size: 35px 35px;
+    background-repeat: no-repeat;
+    background-position-x: 100px;
+    
+    
+    
+}
+input{
+    width: 230px;
+    height: 20px;
+    background-position: center;
+    
+    
+    
+}
+h3{
+    text-align: center;
+}
+button{
+    background-color: rgb(109, 189, 235);
+    border-radius:30px ;
+    width: 200px;
+    padding: 5px;
+    
+
+}
+h4{
+    word-spacing: normal;
+    height: fit-content;
+    background-position: center;
+    background-image: url('ins.jpg');
+    background-position: center left;
+    background-size: cover;
+    background-size: 25px 25px;
+    background-repeat: no-repeat;
+    background-position-x: 110px;
+    
+    
+}
+a{
+    text-decoration: none;
+}
+body{
+    background:linear-gradient(to right,purple,rgb(230, 87, 163),orange);
+    
+    background-clip: text;
+    
+   
+    width: 400px;
+    height: fit-content; 
+    border-spacing: to right,200px ;
+    
+    box-sizing: border-box;
+    border: 2px solid white;
+    background-color: aliceblue;
+    background-clip: calc();
+   margin: auto ;
+    margin-top: 60px;
+    border-color:white;
+    
+}
+
+form{
+    background-color: white;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
